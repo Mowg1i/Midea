@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8b8b8b</color>
+    <color name="cDel">#aeadad</color>
+    <color name="cButton">#e5e5e5</color>
+    <color name="edit">#cccccc</color>
+    <color name="none">#ffffff</color>
+    //idea colours
+    <color name="c0">#b3ebe4c2</color>
+    <color name="c1">#b3d5cad0</color>
+    <color name="c2">#b3c7d7cf</color>
+    <color name="c3">#b3dfcdbb</color>
+    <color name="c4">#b3aec2d0</color>
+    <color name="c5">#b3e0c7c7</color>
+</resources>
